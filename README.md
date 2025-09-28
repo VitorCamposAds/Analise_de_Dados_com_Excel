@@ -42,7 +42,7 @@ Este repositório contém os seguintes arquivos principais:
 ### 📄 Relatório Final
 
 Você pode acessar o relatório completo com todos os detalhes e descobertas aqui:  
-[**Relatório Final (PDF)**](./relatorio_final.pdf)
+[**Relatório Final (PDF)**](https://github.com/VitorCamposAds/Analise_de_Dados_com_Excel/blob/main/Relat%C3%B3rio_final.pdf)
 
 ### 📊 Planilha de Análise
 
